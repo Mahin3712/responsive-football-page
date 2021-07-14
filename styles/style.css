@@ -101,6 +101,23 @@ a{
     
     }
 
+
+/* ------------
+extra section 
+---------------*/
+.video-container{
+    background-color: thistle;
+    display: flex;
+    align-items: center;
+    margin-top: 44px;
+}
+.half-width-video{
+    width: 50%;
+    margin-left: 180px;
+    padding: 50px;
+ 
+}
+
 /* -------------
 footer style
 -------------- */
